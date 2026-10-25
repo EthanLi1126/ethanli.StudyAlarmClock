@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947765922255",
+    "project_id": "com-example-myapplicatio-5bf61",
+    "storage_bucket": "com-example-myapplicatio-5bf61.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947765922255:android:ba19aa598621b8fff52aba",
+        "android_client_info": {
+          "package_name": "com.ethanli.studyalarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDoYH0HuXoUb9OV1J_zY_1fYCfQla1C_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

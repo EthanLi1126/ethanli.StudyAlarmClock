@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">偷卷鬧鐘</string>
+    <string name="action_go">Go</string>
+    <string name="baking_title">Baking with Gemini</string>
+    <string name="label_prompt">Prompt</string>
+    <string name="prompt_placeholder">Provide a recipe for the baked goods in the image</string>
+    <string name="image1_description">Cupcake</string>
+    <string name="image2_description">Cookies</string>
+    <string name="image3_description">Cake</string>
+    <string name="results_placeholder">(Results will appear here)</string>
+    <string name="alarm_status_enabled">狀態：鬧鐘已啟用 (%1$s)</string>
+    <string name="alarm_status_disabled">狀態：鬧鐘尚未設定</string>
+    <string name="manage_category_title">📚 分類 [%1$s] 的題目 (%2$d 題)</string>
+    <string name="stats_summary">總解鎖次數：%1$d 次 | 成功通關：%2$d 次 (%3$d%%)</string>
+    <string name="card_manage_item_format">Q: %1$s\nA: %2$s</string>
+    <string name="card_display_format">【%1$s】\n題目：%2$s\n答案：%3$s</string>
+    <string name="stage1_timer_format">剩餘背誦時間：%1$d 秒</string>
+    <string name="stage2_attempts_format">剩餘答題失敗機會：%1$d 次 (累積失敗輪數: %2$d/2)</string>
+</resources>
